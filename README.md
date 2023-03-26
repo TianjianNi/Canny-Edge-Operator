@@ -12,5 +12,9 @@ The algorithm has been tested using the following input files:
 
 To replicate the testing process, please make sure that you have these files in the same directory as the script. Then, run the script and verify that the output matches the expected result.
 
-#Output Images
+# Input Images
+![https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/Peppers.bmp](Peppers.bmp)
+![https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/Goldhill.bmp](Goldhill.bmp)
 
+# Output Images
+![https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/Goldhill%2075th%20percentiles.bmp](Goldhill75thpercentiles.bmp)
