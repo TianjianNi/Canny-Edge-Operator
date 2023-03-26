@@ -17,4 +17,5 @@ To replicate the testing process, please make sure that you have these files in 
 ![https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/Goldhill.bmp](Goldhill.bmp)
 
 # Output Images
-![https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/Goldhill%2075th%20percentiles.bmp](Goldhill75thpercentiles.bmp)
+![https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/Peppers75percentiles.bmp](Peppers75percentiles.bmp)
+![https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/Goldhill75percentiles.bmp](Goldhill75percentiles.bmp)
