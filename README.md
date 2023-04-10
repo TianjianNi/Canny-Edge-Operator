@@ -14,13 +14,25 @@ To replicate the testing process, please make sure that you have these files in 
 In main.py, replace the file name with testing image file name.
 
 # Input Images
-![https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/source%20code%20file/Goldhill.bmp](Goldhill.bmp)
-![https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/source%20code%20file/Peppers.bmp](Peppers.bmp)
+![Peppers.bmp](https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/source%20code%20file/Peppers.bmp)
+![Goldhill.bmp](https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/source%20code%20file/Goldhill.bmp)
 
 # Output Images
 
-## Threshold at 25th percentile
+### Threshold at 25th percentile (Peppers.bmp)
+![25th%20percentiles.bmp](https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/output%20image%20files/Peppers/25th%20percentiles.bmp)
 
+### Threshold at 50th percentile (Peppers.bmp)
+![50th%20percentiles.bmp](https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/output%20image%20files/Peppers/50th%20percentiles.bmp)
 
-## Threshold at 75th percentile
+### Threshold at 75th percentile (Peppers.bmp)
+![75th%20percentiles.bmp](https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/output%20image%20files/Peppers/75th%20percentiles.bmp)
 
+### Threshold at 25th percentile (Goldhill.bmp)
+![25th%20percentiles.bmp](https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/output%20image%20files/Goldhill/25th%20percentiles.bmp)
+
+### Threshold at 50th percentile (Goldhill.bmp)
+![50th%20percentiles.bmp](https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/output%20image%20files/Goldhill/50th%20percentiles.bmp)
+
+### Threshold at 75th percentile (Goldhill.bmp)
+![75th%20percentiles.bmp](https://github.com/TianjianNi/Canny-Edge-Operator/blob/main/output%20image%20files/Goldhill/75th%20percentiles.bmp)
