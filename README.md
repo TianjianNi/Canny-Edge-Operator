@@ -1,5 +1,5 @@
 # Canny-Edge-Operator
-Implement the Canny’s Edge Detector with the following four steps: Gaussian smoothing, gradient operation, non-maxima suppression and thresholding.
+Implement the Canny’s Edge Operator with the following four steps: Gaussian smoothing, gradient operation, non-maxima suppression and thresholding.
 
 # How to run the program
 To run the program, you will need to ensure that you have the following libraries installed on your system: OpenCV, NumPy, and Matplotlib.
